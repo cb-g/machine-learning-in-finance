@@ -6,7 +6,7 @@ Attempt to implement Python code examples from https://github.com/mfrdixon/ML_Fi
 
 ### [ML_in_Finance-Bayesian-Neural-Network.jl](https://github.com/cb-g/machine-learning-in-finance/blob/main/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network.jl)
 
-The original Python implementation is [ML_in_Finance-Bayesian-Neural-Network.ipynb](https://github.com/mfrdixon/ML_Finance_Codes/blob/master/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network.ipynb)
+The original Python implementation is [ML_in_Finance-Bayesian-Neural-Network.ipynb](https://github.com/mfrdixon/ML_Finance_Codes/blob/master/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network.ipynb).
 
 The half-moon data creation is based on [scikit-learn's make_moons()](https://github.com/scikit-learn/scikit-learn/blob/7e1e6d09b/sklearn/datasets/_samples_generator.py#L723).
 
