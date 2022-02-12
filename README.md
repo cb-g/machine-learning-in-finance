@@ -1,4 +1,4 @@
-# machine-learning-in-finance
+# [machine-learning-in-finance](https://github.com/cb-g/machine-learning-in-finance)
 
 Attempt to implement Python code examples from https://github.com/mfrdixon/ML_Finance_Codes in Julia. 
 
