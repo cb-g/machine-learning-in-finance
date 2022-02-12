@@ -2,7 +2,7 @@
 
 Attempt to implement Python code examples from https://github.com/mfrdixon/ML_Finance_Codes in Julia. 
 
-## Chapter4-NNs
+## [Chapter4-NNs](https://github.com/cb-g/machine-learning-in-finance/tree/main/Chapter4-NNs)
 
 ### [ML_in_Finance-Bayesian-Neural-Network.jl](https://github.com/cb-g/machine-learning-in-finance/blob/main/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network.jl)
 
