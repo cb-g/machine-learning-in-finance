@@ -4,7 +4,7 @@ Attempt to implement Python code examples from https://github.com/mfrdixon/ML_Fi
 
 ## Chapter4-NNs
 
-### ML_in_Finance-Bayesian-Neural-Network.jl
+### [ML_in_Finance-Bayesian-Neural-Network.jl](https://github.com/cb-g/machine-learning-in-finance/blob/main/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network.jl)
 
 The original Python implementation is [ML_in_Finance-Bayesian-Neural-Network.ipynb](https://github.com/mfrdixon/ML_Finance_Codes/blob/master/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network.ipynb)
 
