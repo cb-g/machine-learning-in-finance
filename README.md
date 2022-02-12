@@ -6,3 +6,4 @@ Attempt to implement Python code examples from https://github.com/mfrdixon/ML_Fi
 
 ### ML_in_Finance-Bayesian-Neural-Network.jl
 
+![](https://github.com/cb-g/machine-learning-in-finance/blob/main/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network_Plot_2.png?raw=true)
