@@ -128,14 +128,13 @@ params2 = MCMCChains.group(ch2, :θ).value
 plot(
     xscatter_0, yscatter_0, 
     seriestype = :scatter, 
-    legend = true,
     label = "Class 0",
     title = "half-moons problem"
 )
 plot!(
     xscatter_1, yscatter_1, 
     seriestype = :scatter, 
-    legend = true,
+    legend = :bottomright,
     label = "Class 1"
 )
 x_range = collect(range(-2.5,stop=3.5,length=200))
