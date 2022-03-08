@@ -15,3 +15,9 @@ The half-moon data creation is based on [scikit-learn's make_moons()](https://gi
 The neural network architecture is adapted from and closely follows [this Turing.jl tutorial here](https://turing.ml/dev/tutorials/03-bayesian-neural-network/#generic-bayesian-neural-networks) and [here](https://github.com/TuringLang/TuringTutorials/blob/master/notebook/03-bayesian-neural-network/03_bayesian-neural-network.ipynb) respectively.
 
 ![](https://github.com/cb-g/machine-learning-in-finance/blob/main/Chapter4-NNs/ML_in_Finance-Bayesian-Neural-Network_Plot_3.png?raw=true)
+
+## Chapter9-Reinforcement-Learning
+
+### ML_in_Finance_FCW.jl
+
+The original Python implementation of the financial cliff walking problem is [ML_in_Finance_FCW.ipynb](https://github.com/mfrdixon/ML_Finance_Codes/blob/master/Chapter9-Reinforcement-Learning/ML_in_Finance_FCW.ipynb), which is based on [cliff_walking.py](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction/blob/master/chapter06/cliff_walking.py), which in turn is a Julia-to-Python implementation from [Chapter06_Cliff_Walking.jl](https://github.com/JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl/blob/master/notebooks/Chapter06_Cliff_Walking.jl).
